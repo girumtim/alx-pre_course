@@ -1,2 +1,1 @@
-My first readme
-I just updated the readme file
+Readme for alx-pre_course
